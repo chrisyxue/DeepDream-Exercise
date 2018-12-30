@@ -25,12 +25,12 @@ By Andrej Karpathy,Li Fei-Fei,Department of Computer Science, Stanford Universit
 (nlp与ip的结合，CNN与RNN的结合应用)
 完成代码练习：
 1，Pytorch实现RNN和LSTM（RNN 对姓名进行分类）
-阅读书籍（每本15-20页）：
+阅读书籍（每本30-40页）：
 1，统计学习方法，李航
 2，深度学习，Goodfellow，Bengio，Courville
 3，计算机视觉--算法与应用 Richard Szeliski
 
-1.30 - 2.10
+2,10- 2.20
 完成论文阅读
 1，Generative Adversarial Nets
 By Ian J.Goodfellow,Jean Pouget-Abadie...
@@ -47,14 +47,7 @@ By Max Jaderberg Karen Simonyan Andrew Zisserman Koray Kavukcuoglu,Google DeepMi
 2，深度学习，Goodfellow，Bengio，Courville
 3，计算机视觉--算法与应用 Richard Szeliski
 
-2.11-2.18
-休假
-阅读书籍（随意）：
-1，统计学习方法，李航
-2，深度学习，Goodfellow，Bengio，Courville
-3，计算机视觉--算法与应用 Richard Szeliski
-
-2.19-2.27
+2.21-2.27
 完成论文阅读
 1，Pyramid Match Kernels:Discriminative Classification with Sets of Image Features(version 2)∗
 Kristen Grauman and Trevor Darrell，Massachusetts Institute of Technology，Computer Science and Artificial Intelligence Laboratory，Cambridge, MA, USA
