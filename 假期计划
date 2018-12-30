@@ -1,0 +1,67 @@
+1.10 -1.29
+数学建模美赛校队并参加比赛
+完成论文阅读：
+1，ImageNet Classification with Deep Convolutional  Neural  Networks
+By Alex Krizhevsky, Ilya Sutskever, and Geoffrey E. Hinton
+（Alexnet的提出）
+2，Deep Residual Learning from Images
+By Kaiming He,Xiangyu Zhang	,Shaoqing Ren,Jian Sun 
+(ResNet的提出)
+完成代码练习：
+1，Pytorch实现猫狗图像识别（迁移学习）
+2，Pytorch实现图像的风格转移
+阅读书籍（每本8-13页）：
+1，统计学习方法，李航
+2，深度学习，Goodfellow，Bengio，Courville
+3，计算机视觉--算法与应用 Richard Szeliski
+
+1.29 - 2.09
+完成论文阅读：
+1，Very Deep Convolutional Neural Networks for Large-Scale Image Recognition
+By Karen,Andrew
+(VGGnet的提出)
+2，Deep Visual-Semantic Alignments for Generating Image Descriptions
+By Andrej Karpathy,Li Fei-Fei,Department of Computer Science, Stanford University
+(nlp与ip的结合，CNN与RNN的结合应用)
+完成代码练习：
+1，Pytorch实现RNN和LSTM（RNN 对姓名进行分类）
+阅读书籍（每本15-20页）：
+1，统计学习方法，李航
+2，深度学习，Goodfellow，Bengio，Courville
+3，计算机视觉--算法与应用 Richard Szeliski
+
+1.30 - 2.10
+完成论文阅读
+1，Generative Adversarial Nets
+By Ian J.Goodfellow,Jean Pouget-Abadie...
+(GAN网的提出)
+2，Spatial Transformer Networks
+By Max Jaderberg Karen Simonyan Andrew Zisserman Koray Kavukcuoglu,Google DeepMind, London, UK
+(STN网络)
+完成代码练习：
+1，PyTorch 实现特征金字塔网络 Feature Pyramid Network (FPN)
+2，Pytorch 实现目标检测
+...(待加入)
+阅读书籍（每本30-40页）：
+1，统计学习方法，李航
+2，深度学习，Goodfellow，Bengio，Courville
+3，计算机视觉--算法与应用 Richard Szeliski
+
+2.11-2.18
+休假
+阅读书籍（随意）：
+1，统计学习方法，李航
+2，深度学习，Goodfellow，Bengio，Courville
+3，计算机视觉--算法与应用 Richard Szeliski
+
+2.19-2.27
+完成论文阅读
+1，Pyramid Match Kernels:Discriminative Classification with Sets of Image Features(version 2)∗
+Kristen Grauman and Trevor Darrell，Massachusetts Institute of Technology，Computer Science and Artificial Intelligence Laboratory，Cambridge, MA, USA
+（图像金字塔处理）
+代码练习：
+1，Pytorch实现段老师最早推荐的视频生成mv系统的深度学习部分
+阅读书籍（每本15-20页）：
+1，统计学习方法，李航
+2，深度学习，Goodfellow，Bengio，Courville
+3，计算机视觉--算法与应用 Richard Szeliski
